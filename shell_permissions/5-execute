@@ -1,2 +1,2 @@
-#!/bib/bash
-chmod 744 5-execute
+#!/bin/bash
+chmod 744 hello
